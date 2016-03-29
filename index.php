@@ -1,2 +1,5 @@
 <?php
-    include ('main.html');
+$i = 1;
+if ($i == 1) {
+    include('main.html');
+    }
